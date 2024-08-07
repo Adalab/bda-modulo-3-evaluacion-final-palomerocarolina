@@ -33,4 +33,5 @@ En esta fase, se utilizarán herramientas de visualización para responder pregu
 El objetivo de esta fase es evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Se realizará una prueba de A/B testing para determinar si las diferencias observadas en el número de vuelos reservados entre los diferentes niveles educativos son estadísticamente significativas.
 
 
-### Author: Carolina Palomero Rodríguez
+
+### Autora: Carolina Palomero Rodríguez
